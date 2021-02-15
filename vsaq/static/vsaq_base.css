@@ -41,12 +41,12 @@
 }
 #_vsaq_body fieldset fieldset>legend {
   font-size: 16px;
-  color: #00549A;
+  color: #f1f1f1;
 }
 #_vsaq_body fieldset fieldset fieldset>legend {
   font-size: 14px;
   font-weight: bold;
-  color: #4173C9;
+  color: #f1f1f1;
 }
 #_vsaq_body legend {
   padding: 0 6px;
@@ -106,12 +106,17 @@
 }
 .vsaq-bubble-medium {
   background-color: #F9EDBE !important;
+  color: #533b8c;
 }
 .vsaq-bubble-high {
   background-color: #F9CFBE !important;
+  color: #533b8c;
+
 }
 .vsaq-bubble-critical {
   background-color: #F9BECA !important;
+  color: #533b8c;
+
 }
 .vsaq-checkbox-item label {
   font-weight: normal;

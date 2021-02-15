@@ -17,3 +17,55 @@
 /**
  * Any custom VSAQ (core) css will be contained here.
  */
+ html{
+    background: #533b8c;
+    color: #f1f1f1 ;
+}
+#maia-nav-x, #maia-nav-x.maia-compact h1 ,.maia-button{
+    background:#ff375e;
+}
+/* .maia-button{
+    background:#ff375e;
+} */
+.maia-button:hover{
+    background:#ff375e;
+
+}
+strong, b ,.vsaq-saved-status {
+    color: #f1f1f1;
+}
+pre, code{
+    color: rgb(122, 146, 122);
+}
+a {
+    color: #6b8bc2;
+}
+a:visited{
+    color: #fc819a;
+}
+/* .vsaq-saved-status{
+    color: #f1f1f1
+} */
+
+#maia-header{
+    background: #533b8c;
+    margin: 1%;
+    border-bottom: none;
+}
+#maia-header h1 a{
+    color: #f1f1f1;
+}
+
+#maia-header h2 {
+    color: #f1f1f1;
+}
+.maia-notification>:first-child>strong , .maia-notification{
+    color: #533b8c;
+}
+/* .maia-notification{
+    color: #533b8c;
+} */
+.logo{
+    max-width: 15%;
+    float: left;
+}
